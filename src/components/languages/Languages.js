@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import Language from "../Language/Language";
+import React from "react";
+import Language from "../language/Language";
 import { IoLogoNodejs, IoLogoPython } from "react-icons/io";
 import { SiPowershell } from "react-icons/si";
 import { DiRuby, DiPhp } from "react-icons/di";

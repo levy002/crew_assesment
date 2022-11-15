@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { TiTick } from "react-icons/ti";
-import "./duration.css";
+import "./duartion.css";
 
 const Duration = (props) => {
   const duration = [30, 7, 1];
