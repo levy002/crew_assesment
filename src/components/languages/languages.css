@@ -1,0 +1,85 @@
+.languages-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: auto;
+}
+
+h3 {
+  color: #475569;
+  font-size:0.8em;
+  font-weight: 500;
+  text-align: start;
+}
+
+.languages-sub-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.languages-list {
+  width: 100%;
+}
+
+.languages-list {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.authentication {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.auth-headers {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-more {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.header-more > * {
+    color: #475569;
+    font-weight: 500;
+    font-size: 0.6em;
+}
+
+.API-headers {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border: 1.8px solid rgb(214, 212, 212);
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fafafa;
+}
+
+.line {
+   border: 2px solid red; 
+   height: 100%;
+}
+
+.API-headers p {
+    padding: 0;
+    margin: 0;
+    color: #475569;
+    text-align: center;
+}
+
+.API-headers p:nth-child(1) {
+    font-weight: 500;
+}
+
+.API-headers p:nth-child(2) {
+    font-weight: 400;
+    font-size: 0.7em;
+}
