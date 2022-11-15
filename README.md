@@ -1,4 +1,8 @@
 # Assesment
+
+![chrome-capture-2022-10-15](https://user-images.githubusercontent.com/87197412/202030243-21e9a14b-ef2d-4f78-b103-78dc2935c44e.png)
+![chrome-capture-2022-10-15 (1)](https://user-images.githubusercontent.com/87197412/202030281-17799b17-f904-4c97-a2df-336f79c8bfef.png)
+
 # Built with
 - React
 - CSS
