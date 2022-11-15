@@ -1,0 +1,63 @@
+.duration-box {
+    display: none;
+    background-color: #71717a;
+    flex-direction: column;
+    gap: 5px;
+    padding: 9px 5px;
+    border-radius: 5px;
+    position: fixed;
+    left: 81%;
+    top: 3%;
+}
+
+.duration-box p {
+    color: #fff;
+    font-weight: 450;
+    margin: 0;
+    font-size: 0.8em;
+}
+
+.time {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1px 10px;
+    border-radius: 5px;
+}
+
+.time:hover {
+  background-color: #3b82f6;
+  cursor: pointer;
+}
+
+.time > * {
+    color: #fff;  
+}
+
+.active-time {
+  background-color: #3b82f6;
+}
+
+.active-time {
+  background-color: none;
+}
+
+.active-icon {
+    visibility: visible;
+}
+
+.inactive-icon {
+    visibility: hidden;
+}
+
+.choice-inactive {
+    display: none;
+}
+
+.active {
+    display: flex;
+}
+
+.disappear {
+    display: none;
+}
