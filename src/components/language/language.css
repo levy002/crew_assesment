@@ -1,0 +1,22 @@
+.language {
+    display: flex;
+    flex-direction: column;
+    padding: 12px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 60px;
+    border-radius: 5px;
+}
+
+.language-name {
+    color:#475569;
+    font-size: 0.8em;
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+}
+
+.language:hover {
+ border: 1px solid #c3c5c7;
+}
