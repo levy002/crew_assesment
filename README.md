@@ -28,10 +28,4 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@levy_ukwishaka](https://twitter.com/levy_ukwishaka)
 - LinkedIn: [@levy-ukwishaka](https://www.linkedin.com/in/levy-ukwishaka/)
 
-## :handshake: Contributing
-Contributions, issues, and feature requests are welcome!
-## Show your support
-Give a :star:️ if you like this project!
-## Acknowledgments
 
-- MASTER WiZR offered guidance on how to make the project more professional
